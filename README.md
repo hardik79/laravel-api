@@ -77,8 +77,9 @@ This project demonstrates the use of Laravel Passport to implement OAuth2 authen
    {
        "name": "Your Name",
        "email": "your-email@example.com",
+       "phone":"your-phone-number",
        "password": "your-password",
-       "password_confirmation": "your-password"
+       "c_password": "your-password"
    }
    ```
 
